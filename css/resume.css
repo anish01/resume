@@ -1,12 +1,35 @@
 body {
 	background-color: white;
 	margin: 20px;
+	font: Euphemia;
+
+}
+div {
+	/*background-color: blue*/
+	/*margin: 10px 0 10px 0;*/
+}
+div.washu {
+
+	/*max-width: 500px;*/
+	margin: -123px 0 0 70%;
+
 }
 
 
+ul {
+	/*border: 2px solid white;*/
+
+}
 
 .line-separator{
 height:1px;
 border-bottom:1px solid #003399;
+
+}
+
+section {
+/*width: 49%;
+*/
+/*border: 2px solid red;*/
 
 }
